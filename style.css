@@ -1,0 +1,115 @@
+body {
+	background-color: #A8ACA8;
+}
+
+header {
+	border: solid black 2px;
+	border-radius: 4px;
+	height: 200px;
+	background-color: #F8F4E0;
+
+}
+
+.logo {
+	display: inline-block;
+	margin: 25px 25px;
+	float: left;
+}
+.menu {
+	display: inline-block;
+}
+.menu_button {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+
+.menu_button a {
+	text-decoration: none;
+	color: black;
+	font-size: 100px;
+	font-weight: bold;
+	border: 2px solid black;
+	display: block;
+	justify-content: space-around;
+	text-align: center;
+	margin: 17px 30px;
+	background-color: #C0C0C0;
+	padding: 12px;
+	border-radius: 5px;
+}
+
+
+
+
+.corpus {
+	width: 700px;
+	margin: 0 auto;
+	margin-bottom: 100px;
+	text-align: justify;
+}
+
+
+.corpus img {
+	margin-top: 60px;
+	border: 1px black solid;
+	border-radius: 8px;
+}
+.text {
+	line-height: 1.4em;
+}
+
+.slider {
+	text-align: center;
+}
+.title{
+	text-align: center;
+	margin: 30px;
+}
+
+.title span, h1, .title li {
+	margin: 0;
+	padding: 0;
+}
+.title span {
+	margin-left: 5px;
+}
+
+
+
+
+
+footer {
+	height: 100px;
+	background-color: #F8F4E0;
+}
+
+.recap {
+	display: inline-block;
+	float: left;
+	margin: 33px auto;
+	justify-content: space-around;	
+}
+
+.recap span {
+	font-size: 30px;
+	margin: 30px;
+	padding: 5px;
+	font-style: italic;
+
+
+}
+
+.icons {
+	display: inline-block;
+	float: right;
+	margin: 6px;
+}
+
+.icons i {
+	margin: 20px;
+}
+
+
+
